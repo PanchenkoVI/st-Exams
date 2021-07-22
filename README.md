@@ -19,4 +19,4 @@
 3 -> cpp_module_02
 
 ## Exam Rank 06
-1 -> ???
+1 -> mini_serv
